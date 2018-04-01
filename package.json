@@ -1,0 +1,28 @@
+{
+  "name": "@hudk/pool",
+  "version": "0.0.1",
+  "description": "threads pool for time-consuming operation",
+  "main": "pool.js",
+  "dependencies": {
+    "@hudk/event": "0.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node ./test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hudk114/pool.git"
+  },
+  "keywords": [
+    "threads",
+    "pool",
+    "time-consuming"
+  ],
+  "author": "hudk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hudk114/pool/issues"
+  },
+  "homepage": "https://github.com/hudk114/pool#readme"
+}
